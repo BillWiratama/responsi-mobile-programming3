@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ResponsiMP3</string>
+    <string name="login">Login</string>
+    <string name="fgpass">Forgot Password?Click</string>
+    <string name="register">Register</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="confrim_password">Confrim Password</string>
+    <string name="enter_password">Enter Password</string>
+</resources>
